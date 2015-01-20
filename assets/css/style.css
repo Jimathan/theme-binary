@@ -2353,7 +2353,7 @@ body {
   color: #636363;
   line-height: 1.625;
   font-family: 'Yu Mincho', 'YuMincho', '游明朝', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-size: 0.875rem;
   background-color: #f3f0eb;
 }
@@ -2369,7 +2369,7 @@ h5,
 h6 {
   margin: 8px 0;
   color: #636363;
-  font-family: 'EB Garamond', Georgia, Times, serif;
+  font-family: 'EB Garamond','YuMincho', 'Yu Mincho', Georgia, Times, serif;
   line-height: 1.4;
   font-weight: normal;
 }
